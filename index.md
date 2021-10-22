@@ -14,7 +14,7 @@ sections:
       Nursery raised with care from youth, these cacti can live to be 50 - 60
       years old. This is why we suggest naming them.
     actions:
-      - title: 'Meet the  '
+      - title: 'Meet the Cacti '
         url: /store
         arrow: true
         style: primary
