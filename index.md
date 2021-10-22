@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Real, premium cacti delivered to your home or business
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Grown with care from youth, these cacti can live to be 50 - 60 years old.
+      This is why we suggest naming them. 
     actions:
       - title: See all items
         url: /store
