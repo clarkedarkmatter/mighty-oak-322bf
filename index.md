@@ -50,7 +50,7 @@ sections:
           store using this for sure.
       - author:
           name: Clarke Hurt
-          location: 'Owner; IN, USA'
+          location: 'IN, USA'
         text: "Mike sold me my first cactus in 2017 as a housewarming gift. My new friend (Tobi) has\_ grown taller and faster than I've expected and has become a meaningful part of our home. He lives indoors during winter and outdoors during the summer."
   - type: promotion_section
     section_id: promotion_section
