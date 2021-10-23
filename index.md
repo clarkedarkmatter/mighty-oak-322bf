@@ -8,11 +8,11 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # Tall, beautiful, premium cacti delivered to your home or business
+      # Beautiful, premium cacti delivered to your home or business
 
 
-      Nursery raised with care from youth, these cacti can live to be 50 - 60
-      years old. This is why we suggest naming them.
+      Raised with care from youth, these cacti can live to be 50 - 60 years old.
+      This one is Fred.
     actions:
       - title: 'Meet the Cacti '
         url: /store
